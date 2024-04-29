@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Légende d'Automne",
+        "release": 1987
+    },
+    {
+        "id": 2,
+        "title": "Identité",
+        "release": 1998
+    },
+    {
+        "id": 3,
+        "title": "La Fracture",
+        "release": 2003
+    },
+    {
+        "id": 4,
+        "title": "L'Énigme des Astres",
+        "release": 2010
+    },
+    {
+        "id": 5,
+        "title": "Le Souffle des Abysses",
+        "release": 2016
+    },
+    {
+        "id": 6,
+        "title": "L'Ombre du Destin",
+        "release": 2008
+    }
+]
+
